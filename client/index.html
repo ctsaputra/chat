@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Live Chat</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</head>
+<body>
+    <div id="chat-icon" class="chat-icon">💬</div>
+    <div id="chat-box" class="chat-box hidden">
+        <div id="welcome-popup" class="popup">
+            <div class="popup-content">
+                <h2>Halo Bossku! Selamat datang di layanan Live Chat 24/7 🕖 GOKU55!<br><br>♣ BONUS NEW MEMBER 50%<br>♣ BONUS NEW MEMBER 20%<br>♦ BONUS NEXT DEPOSIT 5%<br>♠ PULSA TANPA POTONGAN 100%<br>♥ SLOTS CASHBACK 5% + ROLLINGAN 0.5%<br>♥ LIVE CASINO CASHBACK 5% + ROLLINGAN 0.5%<br>♥ SPORTSBOOK CASHBACK 7% + ROLLINGAN 0.3%<br>♥ BONUS KEKALAHAN TANPA TO<br>♥ BONUS LUCKY WHEEL<br><br><a href="https://Jasus.net/search" target="_blank">https://Jasus.net/search</a></h2>
+                <input type="text" id="popup-username" placeholder="User ID">
+                <button id="start-chat">Chat Sekarang</button>
+            </div>
+        </div>
+        <div id="messages"></div>
+        <div class="input-container">
+            <button id="upload-button" class="icon-button">📎</button>
+            <input type="file" id="file-input" style="display: none;">
+            <input type="text" id="message-input" placeholder="Tulis pesan...">
+            <button id="restart-chat" onclick="restartChat()" style="display: none;">Mulai obrolan lagi</button>
+        </div>
+        <button id="send-button">Kirim</button>
+    </div>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

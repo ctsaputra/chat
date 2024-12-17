@@ -1,0 +1,98 @@
+{
+  "userMessages": {
+    "Cayla": [
+      {
+        "username": "Cayla",
+        "message": "Selamat datang di situs GOKU55 1 User ID untuk semua permainan Slot Online, Live Casino, Sportsbook, Poker, Sabung Ayam dsb. Link <a href=\"https://Jasus.net/search\" target=\"_blank\">https://Jasus.net/search</a>",
+        "to": "qweqwe",
+        "time": "23.17.04",
+        "isWelcomeMessage": true,
+        "read": true
+      }
+    ]
+  },
+  "chatList": [
+    "Cayla",
+    "qweqwe"
+  ],
+  "historyMessages": {
+    "admin": {
+      "messages": [
+        {
+          "type": "system-notification",
+          "message": "Obrolan telah ditutup karena pengguna tidak aktif selama 5 menit.",
+          "time": "23.21.47",
+          "timestamp": 1734452507673
+        }
+      ],
+      "timestamp": "2024-12-17T16:21:47.671Z"
+    },
+    "qweqwe": {
+      "messages": [
+        {
+          "username": "qweqwe",
+          "message": "asdasdasdas",
+          "to": "Cayla",
+          "time": "23.17.06",
+          "read": true
+        },
+        {
+          "username": "qweqwe",
+          "message": "asdasdas",
+          "to": "Cayla",
+          "time": "23.21.34",
+          "read": true
+        },
+        {
+          "username": "qweqwe",
+          "message": "asd",
+          "to": "Cayla",
+          "time": "23.21.34",
+          "read": true
+        },
+        {
+          "username": "qweqwe",
+          "message": "asd",
+          "to": "Cayla",
+          "time": "23.21.34",
+          "read": true
+        },
+        {
+          "username": "Admin",
+          "message": "asdasd",
+          "to": "qweqwe",
+          "time": "23.21.42",
+          "read": true
+        },
+        {
+          "username": "Admin",
+          "message": "asd",
+          "to": "qweqwe",
+          "time": "23.21.42",
+          "read": true
+        },
+        {
+          "username": "qweqwe",
+          "message": "asdasd",
+          "to": "Cayla",
+          "time": "23.23.18",
+          "read": true
+        },
+        {
+          "username": "Admin",
+          "message": "asdasd",
+          "to": "qweqwe",
+          "time": "23.23.22",
+          "read": true
+        },
+        {
+          "type": "system-notification",
+          "message": "Obrolan telah ditutup karena pengguna tidak aktif selama 5 menit.",
+          "time": "23.57.56",
+          "timestamp": 1734454676318
+        }
+      ],
+      "timestamp": "2024-12-17T16:57:56.316Z"
+    }
+  }
+}
